@@ -16,4 +16,4 @@ git add $FILE
 git commit -m "Update timestamp: $TIMESTAMP"
 
 # 推送到 GitHub
-git push origin master
+git push origin main
